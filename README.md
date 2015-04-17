@@ -1,3 +1,13 @@
+# MRN fork of Airbnb JavaScript Style Guide
+*This guide is to be followed without exception*
+**Except** (list not to grow beyond 5 exceptions)
+1. Whitespace: a tab of 4 spaces will be used
+1. `self` should be used instead of `this`. Alternatively, try to use more descriptive names as outlined here:
+  - [Naming this in nested functions](https://gist.github.com/4135065) - Christian Johansen
+1. Exception
+1. Exception
+1. Exception
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Airbnb JavaScript Style Guide() {
