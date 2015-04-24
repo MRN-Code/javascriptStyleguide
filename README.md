@@ -4,7 +4,7 @@
 
 1. Whitespace: a tab of 4 spaces will be used
 1. `self` should be used instead of `this`. Alternatively, try to use more descriptive names as outlined here:
-    [Naming this in nested functions](https://gist.github.com/4135065) - Christian Johansen
+[Naming this in nested functions](https://gist.github.com/4135065) - Christian Johansen
 1. Exception
 1. Exception
 1. Exception
