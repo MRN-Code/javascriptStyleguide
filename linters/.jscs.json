@@ -3,5 +3,6 @@
     "preset": "airbnb",
     "validateIndentation": 4,
     "safeContextKeyword": ["self"],
-    "requirePaddingNewLinesAfterBlocks": false
+    "requirePaddingNewLinesAfterBlocks": false,
+    "disallowMultipleVarDecl": false
 }
