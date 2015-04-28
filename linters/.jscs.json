@@ -4,5 +4,5 @@
     "validateIndentation": 4,
     "safeContextKeyword": ["self"],
     "requirePaddingNewLinesAfterBlocks": false,
-    "disallowMultipleVarDecl": false
+    "disallowMultipleVarDecl": "exceptUndefined"
 }
